@@ -1,7 +1,7 @@
-countdown = 10
-while countdown > 0
+count = 10
+while count > 0
 do
-  puts countdown
-  countdown -= 1
+  puts count
+  count -= 1
 end
 puts "Happy New Year!"
